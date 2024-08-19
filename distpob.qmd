@@ -1,0 +1,14 @@
+---
+title: "Projeto de Tese de Doutorado: Martelos do Sul"
+author: "Mariano Cabanillas-Torpoco"
+format: html
+editor: visual
+---
+
+## Estrutura e distribuição populacional
+
+A estrutura e distribuição populacional serão analisadas utilizando dados de capturas coletados por observadores a bordo de barcos de pesca de espinhel. Serão registradas variáveis como o tamanho, o sexo, a localização e a data de captura dos espécimes. Além disso, serão utilizadas variáveis ambientais (temperatura superficial, salinidade, clorofila-a, profundidade e rugosidade do leito marinho) obtidas de bases de dados globais ([NOAA](https://www.ncei.noaa.gov/cdo-web/) e [MODIS](https://modis.gsfc.nasa.gov/)) e processadas para coincidir temporalmente com os dados de presença das espécies.
+
+Para analisar a distribuição populacional nas diferentes fases de vida das espécies, serão analisadas as composições de comprimento por área e as tendências nas distribuições de comprimento médio por ano, área, sexo e trimestre do ano para ambas as espécies. Os dados de comprimento serão avaliados com testes de normalidade e homogeneidade de variâncias, e os comprimentos dos espécimes serão comparados entre regiões, sexos e trimestres do ano usando testes não paramétricos. As proporções de sexo também serão comparadas entre as regiões e as classes de comprimento, e as proporções de espécimes imaturos e maduros serão calculadas para cada região e período usando escalas de maturidade específicas.
+
+![](webdist.png)
