@@ -27,20 +27,21 @@ Para avançar na compreensão dos padrões de distribuição espacial de *Sphyrn
 
 Essas abordagens permitirão uma visão abrangente sobre o uso do hábitat e os padrões de movimentação das espécies ao longo do tempo e espaço.
 
-----
+------------------------------------------------------------------------
 
 ##### Cronograma fake
+
 A tabela a seguir descreve as atividades planejadas para cada bimestre do ano de 2024. As atividades incluem disciplinas, obtenção e revisão de dados, análise de dados e estágio de docência. Cada trimestre do ano é representado, indicando com um "x" as fases de execução de cada atividade ao longo do ano.
 
-| Actividades                 | 1º | 2º | 3º | 4º |
-|---------------------------------|--------|--------|--------|--------|
-| Disciplinas                     |   x    |   x    |   x    |   x    |
-| Obtenção e Revisão de dados     |   x    |   x    |   x    |   x    |
-| Análise de dados                |        |   x    |   x    |   x    |
-| Estágio Docencia                |        |        |   x    |   x    |
+| Actividades                 | 1º  | 2º  | 3º  | 4º  |
+|-----------------------------|-----|-----|-----|-----|
+| Disciplinas                 | x   | x   | x   | x   |
+| Obtenção e Revisão de dados | x   | x   | x   | x   |
+| Análise de dados            |     | x   | x   | x   |
+| Estágio Docencia            |     |     | x   | x   |
 
+------------------------------------------------------------------------
 
-------
 Também se adjunta um grafico fake inserido com chunk
 
 ```{r}
@@ -63,5 +64,3 @@ E a formula de von Bertalanffy que sempre achei legal pois é amplamente utiliza
 $$
 L(t) = L_\infty \left(1 - e^{-K(t - t_0)}\right)
 $$
-
-
