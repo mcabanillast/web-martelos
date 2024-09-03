@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Projeto de Tese de Doutorado: Martelos do Sul"
 author: "Mariano Cabanillas-Torpoco"
@@ -10,3 +11,17 @@ editor: visual
 Para estudar os padrões de movimento vertical e horizontal dos tubarões, serão implantados 10 PSATs (Pop-up Satellite Archival Tags) em cinco indivíduos de *Sphyrna zygaena* e cinco de *S. lewini*. Esses dispositivos serão colocados perto da primeira nadadeira dorsal e registrarão dados de temperatura, profundidade e luminosidade ao longo de um período de 30 a 180 dias, dependendo do objetivo de cada estudo. Os dados de geolocalização serão processados usando o software [WC-GPE3](https://wildlifecomputers.com/support/downloads/), que aplicará modelos de Markov ocultos para estimar as localizações dos tubarões, permitindo a reconstrução de seus movimentos. Além disso, a velocidade vertical será calculada para classificar os registros de profundidade em fases de natação vertical.
 
 ![](web1.png)
+=======
+---
+title: "Projeto de Tese de Doutorado: Martelos do Sul"
+author: "Mariano Cabanillas-Torpoco"
+format: html
+editor: visual
+---
+
+## Padrões de movimento vertical e horizontal
+
+Para estudar os padrões de movimento vertical e horizontal dos tubarões, serão implantados 10 PSATs (Pop-up Satellite Archival Tags) em cinco indivíduos de *Sphyrna zygaena* e cinco de *S. lewini*. Esses dispositivos serão colocados perto da primeira nadadeira dorsal e registrarão dados de temperatura, profundidade e luminosidade ao longo de um período de 30 a 180 dias, dependendo do objetivo de cada estudo. Os dados de geolocalização serão processados usando o software [WC-GPE3](https://wildlifecomputers.com/support/downloads/), que aplicará modelos de Markov ocultos para estimar as localizações dos tubarões, permitindo a reconstrução de seus movimentos. Além disso, a velocidade vertical será calculada para classificar os registros de profundidade em fases de natação vertical.
+
+![](web1.png)
+>>>>>>> d327f141dd628d5a600c7ea566a8b9f8844ea7ad

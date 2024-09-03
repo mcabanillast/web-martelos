@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Projeto de Tese de Doutorado: Martelos do Sul"
 author: "Mariano Cabanillas-Torpoco"
@@ -73,3 +74,74 @@ Também, pode encontrar a apresentação do projeto [AQUI](apresentação.html)
 
 
 
+=======
+---
+title: "Projeto de Tese de Doutorado: Martelos do Sul"
+author: "Mariano Cabanillas-Torpoco"
+format: html
+editor: visual
+---
+
+## Padrões de distribuição espacial de *Sphyrna zygaena* e *S. lewini* no Oceano Atlântico Equatorial e Sudoeste
+
+O projeto tem como objetivo analisar a distribuição espacial vertical, horizontal e temporal de *Sphryna zygaena* e *S. lewini* no Oceano Atlântico Equatorial e Sudoeste (AESO, Fig. 1). Ambas as espécies são componentes frequentes das capturas de diversas frotas pesqueiras nas suas diferentes fases de vida e suas populações possuem alta vulnerabilidade à retirada de biomassa pela pesca devido à sua história de vida de lento crescimento populacional. Aliado à alta vulnerabilidade ressaltam-se as lacunas de conhecimento sobre seus padrões de movimento vertical e horizontal, assim como o uso da área de estudo nas diferentes fases de vida. Para superar estas lacunas serão analisados dados de Pop-up Satellite Archival Tags (PSATs) que serão implantados em 5 indivíduos de cada espécie e que registrarão dados de temperatura, profundidade e luminosidade. Esses dados serão processados para reconstruir os movimentos horizontais e verticais das espécies. Para entender o uso da área pelas espécies em termos espaciais e temporais, e nas diferentes fases de vida, serão analisados dados de capturas por unidade de esforço de 37 645 lances de pesca e dos comprimentos de 3 004 indivíduos amostrados a bordo de cruzeiros científicos e navios de pesca, entre 1 998 e 2 024, nas águas jurisdicionais de Brasil e Uruguai e nas águas internacionais do Atlantico Equatorial e Sudoeste. Com base no conhecimento existente, hipotetiza-se que:
+
+1.  *S. lewini* prefere aguas quentes acima da termoclina durante o dia e realiza mergulhos profundos à noite, enquanto *S. zygaena* permanece em aguas costeiras superficiais, evitando aguas frias sob a termoclina.
+2.  Há segregação espacial inter e intra-específica, com *S. lewini* ocupando áreas oceânicas, especialmente na temporada fria, e *S. zygaena* em aguas costeiras, influenciada por sexo e estagio de vida.
+3.  A abundancia relativa dessas espécies varia ao longo do ano devido a mudanças sazonais ambientais, com maior abundancia de *S. lewini* em áreas oceânicas na temporada cálidas e *S. zygaena* em áreas costeiras na temporada fria.
+
+Espera-se que os resultados deste estudo contribuam para a proposição de estratégias de manejo sustentável e a conservação das espécies de tubarões-martelo, uma vez que estas dependem de informações sobre o uso do hábitat e o uso da área pelas espécies nas suas diferentes fases de vida das espécies na área de estudo.
+
+------------------------------------------------------------------------
+
+Para avançar na compreensão dos padrões de distribuição espacial de *Sphyrna zygaena* e *S. lewini* no Oceano Atlântico Equatorial e Sudoeste, o estudo se baseará em três abordagens principais:
+
+-   O estudo dos [padrões de movimento vertical e horizontal](padroes.html).
+
+-   A análise da [estrutura e distribuição populacional](distpob.html).
+
+-   A investigação da [abundância relativa das espécies](cpue.html).
+
+Essas abordagens permitirão uma visão abrangente sobre o uso do hábitat e os padrões de movimentação das espécies ao longo do tempo e espaço.
+
+------------------------------------------------------------------------
+
+##### Cronograma fake
+
+A tabela a seguir descreve as atividades planejadas para cada bimestre do ano de 2024. As atividades incluem disciplinas, obtenção e revisão de dados, análise de dados e estágio de docência. Cada trimestre do ano é representado, indicando com um "x" as fases de execução de cada atividade ao longo do ano.
+
+| Actividades                 | 1º  | 2º  | 3º  | 4º  |
+|-----------------------------|-----|-----|-----|-----|
+| Disciplinas                 | x   | x   | x   | x   |
+| Obtenção e Revisão de dados | x   | x   | x   | x   |
+| Análise de dados            |     | x   | x   | x   |
+| Estágio Docencia            |     |     | x   | x   |
+
+------------------------------------------------------------------------
+
+Também se adjunta um grafico fake inserido com chunk
+
+```{r}
+library(ggplot2)
+
+data <- data.frame(
+  categoria = c("A", "B", "C"),
+  valor = c(10, 20, 30)
+)
+
+ggplot(data, aes(x=categoria, y=valor)) +
+  geom_bar(stat="identity") +
+  labs(title="Gráfico de Barras Fake",
+       x="Categoria",
+       y="Valor")
+```
+
+E a formula de von Bertalanffy que sempre achei legal pois é amplamente utilizada para modelar o crescimento de organismos aquáticos, como peixes:
+
+$$
+L(t) = L_\infty \left(1 - e^{-K(t - t_0)}\right)
+$$
+
+---
+Também, pode encontrar a apresentação do projeto [AQUI](apresentação.html)
+>>>>>>> d327f141dd628d5a600c7ea566a8b9f8844ea7ad

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Projeto de Tese de Doutorado: Martelos do Sul"
 author: "Mariano Cabanillas-Torpoco"
@@ -10,4 +11,18 @@ editor: visual
 
 A abundância relativa de *S. zygaena* e *S. lewini* será investigada através da análise da taxa de captura por unidade de esforço (CPUE) das pescarias com espinhel realizadas por navios atuneiros no Sudoeste do Atlântico. A CPUE será calculada como o número de tubarões capturados por 1.000 anzóis e será analisada em relação à distribuição espacial e temporal das capturas. Para padronizar a CPUE e investigar os fatores que afetam a variabilidade das capturas, serão utilizados modelos lineares generalizados (GLM), considerando diferentes variáveis de resposta. Modelos específicos para lidar com excesso de zeros, como os modelos Poisson inflado de zero (ZIP) e binomial negativo inflado de zero (ZINB), também serão avaliados. As análises estatísticas foram realizadas no [software livre R](https://cran.r-project.org/).
 
+=======
+---
+title: "Projeto de Tese de Doutorado: Martelos do Sul"
+author: "Mariano Cabanillas-Torpoco"
+format: html
+editor: visual
+---
+
+
+## Abundância relativa
+
+A abundância relativa de *S. zygaena* e *S. lewini* será investigada através da análise da taxa de captura por unidade de esforço (CPUE) das pescarias com espinhel realizadas por navios atuneiros no Sudoeste do Atlântico. A CPUE será calculada como o número de tubarões capturados por 1.000 anzóis e será analisada em relação à distribuição espacial e temporal das capturas. Para padronizar a CPUE e investigar os fatores que afetam a variabilidade das capturas, serão utilizados modelos lineares generalizados (GLM), considerando diferentes variáveis de resposta. Modelos específicos para lidar com excesso de zeros, como os modelos Poisson inflado de zero (ZIP) e binomial negativo inflado de zero (ZINB), também serão avaliados. As análises estatísticas foram realizadas no [software livre R](https://cran.r-project.org/).
+
+>>>>>>> d327f141dd628d5a600c7ea566a8b9f8844ea7ad
 ![](webcpue.png)
