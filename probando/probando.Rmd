@@ -7,12 +7,14 @@ documentclass: FrontiersinHarvard # for articles in journals using the Harvard R
 classoption: utf8
 author:
   - name: Mariano Cabanillas-Torpoco
-    affiliation: '1'
+    affiliation: '1,2'
     etal: CABANILLAS-TORPOCO # First author's last name. 
-  - name: Co-Author
-    affiliation: '2'
-  - name: Co-Author
-    affiliation: '1,3'
+  - name: Luís Gustavo Cardoso
+    affiliation: '1'
+  - name: Andrés Domingo
+    affiliation: '3'
+  - name: Neil Hammerschlag
+    affiliation: '4'        
     email: mcabanillastorpoco@furg.br # Indicates corresponding Author
     institution: Laboratorio de Dinamica de Populações Pesqueiras, Instituto de Oceanografia, Universidade Federal do Rio Grande
     street: Av. Itália
@@ -28,27 +30,33 @@ affiliation:
     state: Rio Grande do Sul # only USA, Australia, Canada
     country: Brasil
   - id: '2' 
-    department: Department X
-    institution: Institution X
-    city: City X
-    state: State XX # only USA, Australia, Canada
-    country: Country X
+    department: Programa de Pós-graduação em Oceanografia Biológica
+    institution: Universidade Federal do Rio Grande
+    city: Rio Grande
+    state: Rio Grande do Sul # only USA, Australia, Canada
+    country: Brasil
   - id: '3' 
-    department: Department X
-    institution: Institution X
-    city: City X
+    department: DINARA
+    institution: Governo Uruguaio
+    city: Montevideo
     state: State XX # only USA, Australia, Canada
-    country: Country X
+    country: Uruguay
+  - id: '4' 
+    department: University of Florida
+    institution: Institute of the Sea
+    city: Florida
+    state: MI # only USA, Australia, Canada
+    country: USA
 abstract: |
   Abstract length and content varies depending on article type. Refer to 
   and length according to article type.
   <http://www.frontiersin.org/about/AuthorGuidelines> for abstract requirement
 keywords: # All article types: you may provide up to 8 keywords; at least 5 are mandatory.
   - Isurus paucus
-  - kw2
-  - kw3
-  - kw4
-  - kw5
+  - EMS
+  - AIS
+  - VMS
+  - rare species
 output: rticles::frontiers_article
 # csl: frontiers.csl
 bibliography: test.bib
