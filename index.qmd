@@ -64,3 +64,6 @@ E a formula de von Bertalanffy que sempre achei legal pois é amplamente utiliza
 $$
 L(t) = L_\infty \left(1 - e^{-K(t - t_0)}\right)
 $$
+
+---
+Também, pode encontrar a apresentação do projeto [AQUI](apresentação.html)
