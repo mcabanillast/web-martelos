@@ -22,8 +22,7 @@ format:
 editor: visual
 ---
 
-## Introdução
-
+# Introdução
 *Sphryna zygaena* e *S. lewini*, frequentemente capturadas por diversas frotas pesqueiras, são altamente vulneráveis à pesca devido ao seu lento crescimento populacional.   Existem lacunas de conhecimento sobre seus padrões de movimento vertical e horizontal, assim como o uso da área de estudo nas diferentes fases de vida. 
 
 
@@ -36,16 +35,16 @@ O projeto visa analisar a distribuição espacial e temporal de *Sphryna zygaena
 # Hipôtesis sugeridas
 
 ## Hipôtese 1
-S. lewini tenha preferência por aguas mais cálidas por cima da termoclina durante o dia e realize imersões mais profundas durante a noite, enquanto S. zygaena se encontrará frequentemente em aguas superficiais e costeiras, evitando as aguas sob a termoclina 
+*S. lewini* tenha preferência por aguas mais cálidas por cima da termoclina durante o dia e realize imersões mais profundas durante a noite, enquanto *S. zygaena* se encontrará frequentemente em aguas superficiais e costeiras, evitando as aguas sob a termoclina 
 
 ## Hipôtese 2
-Há diferenças na distribuição espacial potencial entre as duas espécies durante diferentes épocas do ano, com S. lewini procurando aguas cálidas em áreas oceânicas, especialmente na temporada fria, e S. zygaena ocupando áreas mais costeiras e superficiais, com potencial segregação por sexo e estágio de vida em ambas espécies  
+Há diferenças na distribuição espacial potencial entre as duas espécies durante diferentes épocas do ano, com *S. lewini* procurando aguas cálidas em áreas oceânicas, especialmente na temporada fria, e *S. zygaena* ocupando áreas mais costeiras e superficiais, com potencial segregação por sexo e estágio de vida em ambas espécies  
 
 ## Hipôtese 3 
 A abundancia relativa dessas espécies varia ao longo do ano influenciado por fatores como disponibilidade de presas, temperatura d’água e correntes oceânicas
 
 
-## Metodos
+# Metodos
 Para superar estas lacunas serão implantados Pop-up Satellite Archival Tags (PSATs) em 5 indivíduos de cada espécie, cujos dados serão usados para reconstruir seus movimentos horizontais e verticais. Além disso, serão analisados dados de capturas por unidade de esforço de XXXXXX lances de pesca e comprimentos de XXXX indivíduos amostrados entre 1998 e 2024, nas águas jurisdicionais de Brasil e Uruguai, e nas águas internacionais do AESO.
 
 ## Contribuição do estudo
